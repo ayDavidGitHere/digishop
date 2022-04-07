@@ -8,5 +8,3 @@ TypeScript, NodeJS, Express, PostgreSQL, TypeORM, EJS.
 
 
 
-## Local
-/storage/emulated/0/compilerInternalSonyX/projects/NEWAGE/outsourced/nodeJS-express-postgresql
