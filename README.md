@@ -3,7 +3,12 @@
 
 An e-commerce site.
 ## Stacks.
-TypeScript, NodeJS, Express, PostgreSQL, TypeORM, EJS.
+ TypeScript.
+ NodeJS.
+ Express.
+ PostgreSQL.
+ TypeORM.
+ EJS.
 
 
 
