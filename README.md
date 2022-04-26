@@ -1,7 +1,7 @@
 # Basic Nodejs-TypeScript E-Commerce Website
 
 
-An e-commerce site.
+An E-commerce website.
 ## Stacks.
  TypeScript.
  NodeJS.
